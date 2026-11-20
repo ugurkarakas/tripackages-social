@@ -22,7 +22,7 @@ Her gün 18:47 (İstanbul): Facebook post, Instagram post + story, LinkedIn post
 | 2026-12-05 | İşletme | isletme-ucretsiz | isletme-mutfak | Listeleme ücretsiz, kısıtlama yok. Deneyiminizi bugün Tripackages'a ekleyin. #turizm #işletme |
 | 2026-12-06 | Deneyim | deneyim-kano | deneyim-sorf | Sessiz bir göl, tek bir kürek. Kano ve doğa turlarını keşfet. tripackages.com #kano #doğa #deneyim |
 | 2026-12-07 | İşletme | isletme-mutfak | isletme-gokyuzu | Mutfağınızı misafirlere açın. Yemek atölyelerinizi Tripackages'ta ücretsiz listeleyin. #yemekatölyesi #deneyim |
-| 2026-12-08 | Deneyim | deneyim-sorf | deneyim-aurora | İlk dalgan seni bekliyor. Sörf dersleri ve deniz deneyimleri Tripackages'ta. tripackages.com #sörf #deneyim |
+| 2026-12-08 | Deneyim | deneyim-sorf | deneyim-aurora | Sörf tahtan seni bekliyor. Sörf dersleri ve deniz deneyimleri Tripackages'ta. tripackages.com #sörf #deneyim |
 | 2026-12-09 | İşletme | isletme-gokyuzu | isletme-dalis | Gökyüzünü paylaşın. Balon ve hava aktivitelerinizi Tripackages'ta listeleyin. #balonturu #turizm |
 | 2026-12-10 | Deneyim | deneyim-aurora | deneyim-bisiklet | Gökyüzünün dansına tanık ol. Kuzey ışıkları turları Tripackages'ta. tripackages.com #kuzeyışıkları #deneyim |
 | 2026-12-11 | İşletme | isletme-dalis | isletme-kurallar | Dalış merkezinizi öne çıkarın. Dalış turlarınızı ücretsiz listeleyin, komisyon ödemeyin. #dalış #turizm |
